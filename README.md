@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Привет, я Юрий 👋</h1>
 
-<!--
-**YuriyEzersky/YuriyEzersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://c.tenor.com/u8D5XYdrrnAAAAAd/coding.gif" alt="coding gif" width="300">
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">💻 QA Инженер</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 Чем занимаюсь сейчас:
+- Нахожусь в поиске работы
+- Изучаю базу по DevOps 
+
+---
+
+## 🚀 Технологии и инструменты:
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
+
+---
+
+## 🌍 Связь со мной:
+- [LinkedIn](https://linkedin.com/in/yuriy-ezersky) 👔
+- Email: [yuriy.ezersky@yandex.ru](mailto:yuriy.ezersky@yandex.ru)
+
+---
+
+## 📈 GitHub Статистика:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ваше_имя_на_github&show_icons=true&theme=dark" alt="GitHub Stats">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ваше_имя_на_github&theme=dark" alt="Streak Stats">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ваше_имя_на_github&layout=compact&theme=dark" alt="Top Langs">
+</p>
