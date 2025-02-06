@@ -35,9 +35,9 @@
 
 ## 📈 GitHub Статистика:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ваше_имя_на_github&show_icons=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=YuriyEzersky&show_icons=true&theme=dark" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ваше_имя_на_github&theme=dark" alt="Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YuriyEzersky&theme=dark" alt="Streak Stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ваше_имя_на_github&layout=compact&theme=dark" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriyEzersky&layout=compact&theme=dark" alt="Top Langs">
 </p>
