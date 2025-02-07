@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я Юрий 👋</h1>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQH6xQo9SC0llg/profile-displaybackgroundimage-shrink_350_1400/B56ZTgR0X5GsAg-/0/1738929556270?e=1744243200&amp;v=beta&amp;t=f2gBBszhE3N5thBlrKAu0uUaBwmVd50sD4l8tGQIEmg" alt="profilePhoto" width="300">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQH6xQo9SC0llg/profile-displaybackgroundimage-shrink_350_1400/B56ZTgR0X5GsAg-/0/1738929556270?e=1744243200&amp;v=beta&amp;t=f2gBBszhE3N5thBlrKAu0uUaBwmVd50sD4l8tGQIEmg" alt="profilePhoto">
 </p>
 
 <p align="center">
