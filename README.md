@@ -32,10 +32,8 @@
 ---
 
 ## 📈 GitHub Статистика:
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=YuriyEzersky&show_icons=true&theme=dark" alt="GitHub Stats">
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriyEzersky&layout=compact&theme=dark" alt="Top Langs">
-  <br>
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 </p>
