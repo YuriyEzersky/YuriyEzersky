@@ -1,6 +1,10 @@
 <h1 align="center">Привет, я Юрий 👋</h1>
 
 <p align="center">
+  <img src="https://www.linkedin.com/in/yuriy-ezersky/overlay/background-image/" alt="profilePhoto" width="300">
+</p>
+
+<p align="center">
   <img src="https://c.tenor.com/u8D5XYdrrnAAAAAd/coding.gif" alt="coding gif" width="300">
 </p>
 
