@@ -4,12 +4,6 @@
   <img src="https://media.licdn.com/dms/image/v2/D5616AQH6xQo9SC0llg/profile-displaybackgroundimage-shrink_350_1400/B56ZTgR0X5GsAg-/0/1738929556270?e=1744243200&amp;v=beta&amp;t=f2gBBszhE3N5thBlrKAu0uUaBwmVd50sD4l8tGQIEmg" alt="profilePhoto">
 </p>
 
-<p align="center">
-  <img src="https://c.tenor.com/u8D5XYdrrnAAAAAd/coding.gif" alt="coding gif" width="300">
-</p>
-
-<h3 align="center">💻 QA Инженер</h3>
-
 ---
 
 ## 🔭 Чем занимаюсь сейчас:
